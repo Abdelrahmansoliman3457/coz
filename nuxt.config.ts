@@ -1,4 +1,9 @@
 export default defineNuxtConfig({
+  target: "static",
+  ssr: false,
+  generate: {
+    fallback: true,
+  },
   app: {
     pageTransition: {
       name: "page",
