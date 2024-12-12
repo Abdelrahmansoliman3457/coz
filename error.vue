@@ -26,7 +26,7 @@ definePageMeta({
 
 </script>
 
-<style>
+<style scoped>
 .all-404{
     min-height: 100vh;
     display: flex;
