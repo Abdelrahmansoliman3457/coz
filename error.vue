@@ -162,7 +162,6 @@ definePageMeta({
 
 body {
     background-color: #FDFAF5;
-    margin-bottom: 50px;
 }
 
 html,
